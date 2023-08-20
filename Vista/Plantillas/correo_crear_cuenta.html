@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <title>Creación de Cuenta de usuario</title>
+    </head>
+    <body style="background: #7f7f7f; color: white; padding: 50px;">
+        <div align="center">
+            <div style="width: 900px; border: 1px solid #594f4f; border-radius: 5px;">
+                <div style=" background: #594f4f; padding: 5px">
+                    <h2 style="text-align: center">{site_name}</h2>
+                </div>
+
+                <div style="padding: 15px; background: #eaeced; color: black">
+                    <center><img alt="logo" src="{server_url}/img/logo.png" width="284"/></center>
+                    
+                    <p align="justify">Saludos Estimado(a), {nombre} {apellido}</p>
+                    <p align="justify">La {institucion} informa que se ha creado su cuenta en el {site_name} el {fecha},  lo que le permitirá hacer uso de los distintos servicios de la institución.
+                    </p>
+                    <p align="justify">La primera vez que ingrese será necesario que cambie su contraseña por otra que pueda recordar, pero que no pueda ser descubierta fácilmente por otras personas, con lo cual, se asegurará que Usted sea el único con acceso a sus cuentas personales en los sistemas  institucionales.
+                    </p>
+                    <p align="justify">Para acceder a los servicios tecnológicos de la {institucion}, debe dar click en el siguiente enlace: <a href="{server_url}"><strong>{server_url}</strong></a>
+                    </p>
+                    <p><strong>Sus datos para el acceso son los siguientes:</strong></p>
+                    <p align="left"><b>Usuario:</b> {usuario}</p>
+                    <p align="left"><b>Contraseña:</b> {cedula}</p>
+                    <p align="justify">Si tiene cualquier inquietud comunicarse a la mesa de servicios: {texto_soporte}</p>
+                    
+                    <p>Atentamente,</p>
+                    <p><b>{departamento}
+                            <br>
+                            {institucion}.</b>
+                    </p>
+                </div>
+
+                <div style="padding: 15px; background: #594f4f">
+                    
+                    <p align="justify"><small>Este correo es una asistencia que la recibe gracias a la {institucion}. Favor no responder al mismo.
+                            Este mensaje contiene información confidencial dirigida a una persona o propósito específico y se encuentra protegido por la ley. Si usted no es el destinatario original, deberá borrarlo. Cualquier copia, distribución o cualquier acción basada en el mismo se encuentra estrictamente prohibida, correspondiendo la reserva exclusiva de todos sus derechos únicamente a la {institucion}.
+                        </small></p>
+                </div>
+            </div>
+        </div>    
+    </body>
+</html>
+

@@ -1,0 +1,144 @@
+
+31 01 2019 10:01:38 Usuario Vinculado - Grupozzz.zzzzcn=sisi,ou=unl,dc=cas,dc=com
+
+31 01 2019 10:01:37 Usuario Vinculado - Grupo
+zzz.zzzzcn=sisi,ou=unl,dc=cas,dc=com
+
+31 01 2019 10:01:56 Usuario Vinculado - Grupo
+zzz.zzzzcn=sisi,ou=unl,dc=cas,dc=com
+
+31 01 2019 10:01:45 klever.klevercn=sisi,ou=unl,dc=cas,dc=com
+zzz.zzzzcn=sisi,ou=unl,dc=cas,dc=com
+
+31 01 2019 10:01:30 klever.klevercn=sisi,ou=unl,dc=cas,dc=com
+zzz.zzzzcn=sisi,ou=unl,dc=cas,dc=com
+
+31 01 2019 10:01:18 klever.klevercn=sisi,ou=unl,dc=cas,dc=com
+zzz.zzzzcn=sisi,ou=unl,dc=cas,dc=com
+
+31 01 2019 10:01:02 klever.klevercn=sisi,ou=unl,dc=cas,dc=com
+zzz.zzzzcn=sisi,ou=unl,dc=cas,dc=com
+
+31 01 2019 10:01:47 klever.klevercn=sisi,ou=unl,dc=cas,dc=com
+zzz.zzzzcn=sisi,ou=unl,dc=cas,dc=com
+
+31 01 2019 17:01:17 waaguilars@unl.edu.eccn=eduroam,ou=unl,dc=cas,dc=com
+jhon@unl.edu.eccn=eduroam,ou=unl,dc=cas,dc=com
+
+31 01 2019 17:01:04 waaguilars@unl.edu.eccn=eduroam,ou=unl,dc=cas,dc=com
+jhon@unl.edu.eccn=eduroam,ou=unl,dc=cas,dc=com
+
+31 01 2019 17:01:06 waaguilars@unl.edu.eccn=eduroam,ou=unl,dc=cas,dc=com
+jhon@unl.edu.eccn=eduroam,ou=unl,dc=cas,dc=com
+
+31 01 2019 17:01:19 waaguilars@unl.edu.eccn=eduroam,ou=unl,dc=cas,dc=com
+jhon@unl.edu.eccn=eduroam,ou=unl,dc=cas,dc=com
+
+31 01 2019 17:01:34 waaguilars@unl.edu.eccn=eduroam,ou=unl,dc=cas,dc=com
+jhon@unl.edu.eccn=eduroam,ou=unl,dc=cas,dc=com
+
+31 01 2019 17:01:27 waaguilars@unl.edu.eccn=eduroam,ou=unl,dc=cas,dc=com
+jhon@unl.edu.eccn=eduroam,ou=unl,dc=cas,dc=com
+
+31 01 2019 17:01:48 waaguilars@unl.edu.eccn=eduroam,ou=unl,dc=cas,dc=com
+jhon@unl.edu.eccn=eduroam,ou=unl,dc=cas,dc=com
+
+31 01 2019 17:01:50 waaguilars@unl.edu.eccn=eduroam,ou=unl,dc=cas,dc=com
+jhon@unl.edu.eccn=eduroam,ou=unl,dc=cas,dc=com
+
+31 01 2019 17:01:50 waaguilars@unl.edu.eccn=eduroam,ou=unl,dc=cas,dc=com
+jhon@unl.edu.eccn=eduroam,ou=unl,dc=cas,dc=com
+
+31 01 2019 17:01:51 waaguilars@unl.edu.eccn=eduroam,ou=unl,dc=cas,dc=com
+jhon@unl.edu.eccn=eduroam,ou=unl,dc=cas,dc=com
+
+31 01 2019 17:01:04 waaguilars@unl.edu.eccn=eduroam,ou=unl,dc=cas,dc=com
+jhon@unl.edu.eccn=eduroam,ou=unl,dc=cas,dc=com
+
+31 01 2019 17:01:38 jhon@unl.edu.eccn=sistemasTodos,ou=uti,ou=unl,dc=cas,dc=com
+danny@unl.edu.eccn=sistemasTodos,ou=uti,ou=unl,dc=cas,dc=com
+jose@unl.edu.eccn=sistemasTodos,ou=uti,ou=unl,dc=cas,dc=com
+
+31 01 2019 17:01:22 waaguilars@unl.edu.eccn=eduroam,ou=unl,dc=cas,dc=com
+jhon@unl.edu.eccn=eduroam,ou=unl,dc=cas,dc=com
+holi@unl.edu.eccn=eduroam,ou=unl,dc=cas,dc=com
+
+31 01 2019 18:01:55 
+31 01 2019 18:01:22 
+31 01 2019 18:01:49 
+31 01 2019 18:01:50 
+31 01 2019 18:01:04 
+31 01 2019 18:01:05 
+31 01 2019 18:01:06 
+31 01 2019 18:01:11 
+31 01 2019 18:01:12 
+31 01 2019 18:01:12 
+31 01 2019 18:01:13 
+31 01 2019 18:01:13 
+31 01 2019 18:01:13 
+31 01 2019 18:01:14 
+31 01 2019 18:01:14 
+31 01 2019 18:01:14 
+31 01 2019 18:01:44 
+31 01 2019 18:01:45 
+31 01 2019 18:01:46 
+31 01 2019 18:01:47 
+31 01 2019 18:01:47 
+31 01 2019 18:01:47 
+31 01 2019 18:01:47 
+31 01 2019 18:01:48 
+31 01 2019 18:01:48 
+31 01 2019 18:01:07 waaguilar@unl.edu.eccn=jenkins,ou=vicerrectorado,ou=Rectorado,ou=unl,dc=cas,dc=com
+0cn=jenkins,ou=vicerrectorado,ou=Rectorado,ou=unl,dc=cas,dc=com
+
+31 01 2019 18:01:37 wilmer.aguilarcn=open,ou=secretaria,ou=Rectorado,ou=unl,dc=cas,dc=com
+0cn=open,ou=secretaria,ou=Rectorado,ou=unl,dc=cas,dc=com
+
+31 01 2019 18:01:46 0cn=carrera,ou=sistemas2,ou=sistemas,ou=unl,dc=cas,dc=com
+
+31 01 2019 18:01:57 
+31 01 2019 18:01:24 
+31 01 2019 18:01:34 
+04 02 2019 04:02:09 klever.klevercn=sisi,ou=unl,dc=cas,dc=com
+zzz.zzzzcn=sisi,ou=unl,dc=cas,dc=com
+
+04 02 2019 04:02:15 
+06 02 2019 05:02:28 leidy.abrigo@unl.edu.eccn=pedro,ou=unl,dc=cas,dc=com
+
+06 02 2019 06:02:20 leidy.abrigo@unl.edu.eccn=pedro,ou=unl,dc=cas,dc=com
+
+07 02 2019 03:02:51 
+07 02 2019 03:02:33 0cn=sisi,ou=unl,dc=cas,dc=com
+m@unl.edu.eccn=sisi,ou=unl,dc=cas,dc=com
+
+07 02 2019 03:02:01 0cn=sisi,ou=unl,dc=cas,dc=com
+m@unl.edu.eccn=sisi,ou=unl,dc=cas,dc=com
+manuel.s.armijos@unl.edu.eccn=sisi,ou=unl,dc=cas,dc=com
+
+07 02 2019 06:02:25 
+08 02 2019 05:02:30 leidy.abrigo@unl.edu.eccn=prueba,ou=grupoprueba,ou=grupoc,ou=unl,dc=cas,dc=com
+sandra.chavez@unl.edu.eccn=prueba,ou=grupoprueba,ou=grupoc,ou=unl,dc=cas,dc=com
+jefferson.oviedo@unl.edu.eccn=prueba,ou=grupoprueba,ou=grupoc,ou=unl,dc=cas,dc=com
+
+12 02 2019 08:02:36 jefferson.oviedo@unl.edu.eccn=prueba,ou=grupoprueba,ou=grupoc,ou=unl,dc=cas,dc=com
+
+12 02 2019 08:02:58 jefferson.oviedo@unl.edu.eccn=prueba,ou=grupoprueba,ou=grupoc,ou=unl,dc=cas,dc=com
+allison.encalada@unl.edu.eccn=prueba,ou=grupoprueba,ou=grupoc,ou=unl,dc=cas,dc=com
+
+13 02 2019 06:02:28 jefferson.oviedo@unl.edu.eccn=prueba,ou=grupoprueba,ou=grupoc,ou=unl,dc=cas,dc=com
+allison.encalada@unl.edu.eccn=prueba,ou=grupoprueba,ou=grupoc,ou=unl,dc=cas,dc=com
+kevin.s.cabrera@unl.edu.eccn=prueba,ou=grupoprueba,ou=grupoc,ou=unl,dc=cas,dc=com
+
+13 02 2019 06:02:24 jefferson.oviedo@unl.edu.eccn=prueba,ou=grupoprueba,ou=grupoc,ou=unl,dc=cas,dc=com
+allison.encalada@unl.edu.eccn=prueba,ou=grupoprueba,ou=grupoc,ou=unl,dc=cas,dc=com
+kevin.s.cabrera@unl.edu.eccn=prueba,ou=grupoprueba,ou=grupoc,ou=unl,dc=cas,dc=com
+tguerreros@unl.edu.eccn=prueba,ou=grupoprueba,ou=grupoc,ou=unl,dc=cas,dc=com
+silvana.e.castro@unl.edu.eccn=prueba,ou=grupoprueba,ou=grupoc,ou=unl,dc=cas,dc=com
+
+31 05 2019 05:05:45 roger.arias@unl.edu.eccn=eva,ou=eva,ou=universidad_implementacion,dc=cas,dc=com
+
+31 05 2019 05:05:16 roger.arias@unl.edu.eccn=eva,ou=eva,ou=universidad_implementacion,dc=cas,dc=com
+
+31 05 2019 06:05:05 erick.cabrera@unl.edu.eccn=sac,ou=universidad_implementacion,dc=cas,dc=com
+vanessa.banegas@unl.edu.eccn=sac,ou=universidad_implementacion,dc=cas,dc=com
+

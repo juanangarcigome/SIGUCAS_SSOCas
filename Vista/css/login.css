@@ -1,0 +1,181 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20/03/2019, 16:37:38
+    Author     : danny
+*/
+
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6{
+    margin: 0; 
+    padding: 0;
+    
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+h4{
+    font-size: 22px;
+}
+
+.error{
+    color: red;
+}
+
+.principal{
+    background-color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    width: 100%;
+    margin: 0 auto;
+    background-color: #594f4f;
+    background-image: url("img/pattern07.png");
+}
+
+
+html{
+    position:relative;
+    min-height: 100%;
+}
+
+body, html {
+    background-color: #fff;
+    margin:0;
+    padding:0;
+}
+
+.limiter {
+  width: 100%;
+  margin: 0 auto;
+
+  /*Mismo alto limiter-footer*/
+  margin-bottom:100px;
+}
+
+.limiter-header{
+    height: 204px;
+    width: 100%;
+    background:#ccc url('img/banner-sac.jpg') no-repeat center;
+    background-size: auto;
+    background-size: cover;
+    margin: 0 auto;
+}
+
+.limiter-footer{
+    color: #131212;
+    background-color: #eee;
+    padding: 20px 20px;
+    background-image: url("img/pattern07.png");
+
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height:none;
+}
+
+.page-title{
+    color: white;
+}
+
+.form-title{
+  font-size: 28px;
+  color: #e43c5c;
+  line-height: 1.2;
+  text-align: center;
+  text-transform: uppercase;
+
+  display: block;
+  
+  padding-top: 27px;
+  padding-bottom: 30px;
+}
+
+.container-login100 {
+  width: 100%;
+  /*min-height: 100vh;*/
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  z-index: 1;
+}
+
+.wrap-login100{    
+  width: 500px;
+  border-radius: 10px;
+  overflow: hidden;
+  padding: 37px 55px 37px 55px;
+  background: #eaeced;
+  /*background: -webkit-linear-gradient(top, #007bff, #5992d0);
+  background: -o-linear-gradient(top, #007bff, #5992d0);
+  background: -moz-linear-gradient(top, #007bff, #5992d0);
+  background: linear-gradient(top, #007bff, #5992d0);
+  */
+  background-image: url("img/pattern07.png");
+}
+
+.btn-circle {
+    border-radius: 25px!important;
+    overflow: hidden;
+    outline: 0px !important;
+}
+
+.btn-acceder {
+    background-color: #5b5c6f  !important; /*#e91e63*/
+    color: #fff !important;
+    padding: 6px 18px;
+    font-size: 11px;
+    
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.titulo-sistema{
+    color: #36ab2b;
+    font-weight: bold;
+}
+
+.div-sistema{
+    height:180px; 
+    background: #022948; /*#022948; */
+    color:#777;
+    
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    
+    /*border: 1px solid #ddd;*/
+    border-radius: 5px;
+    /*-webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;*/
+    
+}
+
+.mensaje{
+    color: #022948;
+}
